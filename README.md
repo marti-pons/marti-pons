@@ -11,9 +11,3 @@ I studied at Universitat Politècnica de Catalunya and am completing a master's 
 My bachelor's thesis code: implementations of Leader-family clustering algorithms with Gower similarity and medoid-based representatives. Includes experiments on input-order sensitivity, running time and clustering for classification.
 
 Python · NumPy · pandas · Numba
-
-### [Barcelona Housing Affordability](https://github.com/marti-pons/DATATHON)
-
-A 2021 team datathon project exploring rent and household income across Barcelona's neighbourhoods, with Python analysis and an interactive Leaflet map. A historical prototype, not an up-to-date housing-price tool.
-
-Python · scikit-learn · JavaScript · Leaflet
